@@ -1,0 +1,16 @@
+{
+  "name": "mongodbnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "preethi",
+  "license": "MKT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.6"
+  }
+}
