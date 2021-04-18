@@ -1,0 +1,16 @@
+{
+  "name": "5star",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "preethi",
+  "license": "MKT",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "fontawesome": "^5.6.3"
+  }
+}
